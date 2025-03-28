@@ -1,0 +1,3 @@
+[submodule "nodejs-js-batch-obfuscator"]
+	path = nodejs-js-batch-obfuscator
+	url = https://github.com/bernardlawes/nodejs-js-batch-obfuscator.git
